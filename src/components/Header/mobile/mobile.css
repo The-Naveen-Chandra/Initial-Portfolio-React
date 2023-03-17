@@ -1,0 +1,17 @@
+.mobile {
+    background-color: white;
+    height: 100vw;
+    width: 60vw;
+    position: absolute;
+    right: 0;
+    top: -6px;
+    padding: 10px 12px;
+    display: flex;
+    flex-direction: column; 
+}
+
+.close-icon {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 24px;
+}
